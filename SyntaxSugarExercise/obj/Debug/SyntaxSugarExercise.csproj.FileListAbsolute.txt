@@ -1,0 +1,8 @@
+C:\Users\Damion\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\SyntaxSugarExercise.exe.config
+C:\Users\Damion\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\SyntaxSugarExercise.exe
+C:\Users\Damion\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\SyntaxSugarExercise.pdb
+C:\Users\Damion\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\SyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\Damion\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\SyntaxSugarExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damion\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\Damion\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\SyntaxSugarExercise.exe
+C:\Users\Damion\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\SyntaxSugarExercise.pdb
